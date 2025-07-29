@@ -44,3 +44,7 @@ The WGAN-GP model consists of a generator and a discriminator. The generator gen
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 - [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
 - [Gradient Penalty](https://arxiv.org/abs/1704.00028)
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
